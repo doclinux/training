@@ -74,3 +74,5 @@ output "Public_IP" {
 output "Public_DNS" {
   value = ["${aws_instance.instance01.*.public_dns}"]
 }
+
+hujioufdshjjfdhufdshufdusifds
